@@ -1,0 +1,7 @@
+D:\Documents\Développement\C#\Equation resolver\Equation resolver\bin\Debug\Equation resolver.exe.config
+D:\Documents\Développement\C#\Equation resolver\Equation resolver\bin\Debug\Equation resolver.exe
+D:\Documents\Développement\C#\Equation resolver\Equation resolver\bin\Debug\Equation resolver.pdb
+D:\Documents\Développement\C#\Equation resolver\Equation resolver\obj\Debug\Equation resolver.csprojResolveAssemblyReference.cache
+D:\Documents\Développement\C#\Equation resolver\Equation resolver\obj\Debug\Equation resolver.csproj.CoreCompileInputs.cache
+D:\Documents\Développement\C#\Equation resolver\Equation resolver\obj\Debug\Equation resolver.exe
+D:\Documents\Développement\C#\Equation resolver\Equation resolver\obj\Debug\Equation resolver.pdb
